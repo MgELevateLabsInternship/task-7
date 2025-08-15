@@ -1,8 +1,11 @@
 # task-7
 
 ### NetData Dashboard
-<img width="1920" height="1020" alt="6e6679d7ca42_ Netdata Agent Console - Brave 15-08-2025 17_09_53" src="https://github.com/user-attachments/assets/490752a3-07c8-4544-9346-4ecba09ff520" />
-<img width="1920" height="1020" alt="6e6679d7ca42_ Netdata Agent Console - Brave 15-08-2025 17_09_48" src="https://github.com/user-attachments/assets/2bf4bc0b-e6cf-4b56-bf7e-eb51135099aa" />
-<img width="1920" height="1020" alt="6e6679d7ca42_ Netdata Agent Console - Brave 15-08-2025 17_09_40" src="https://github.com/user-attachments/assets/1e8f6d66-3b6a-4854-afc9-c78ee3c9a1e0" />
-<img width="1920" height="1020" alt="ATS score checker - Brave 15-08-2025 17_07_05" src="https://github.com/user-attachments/assets/505674a0-988d-402e-965c-268731638cf2" />
-<img width="1920" height="1020" alt="6e6679d7ca42_ Netdata Agent Console - Brave 15-08-2025 17_06_29" src="https://github.com/user-attachments/assets/7d654067-a730-42b9-90a9-148a29ff3e3e" />
+
+<img width="1920" height="1020" alt="6e6679d7ca42_ Netdata Agent Console - Brave 15-08-2025 17_06_29" src="https://github.com/user-attachments/assets/4881ccdc-e3c5-416b-b8d5-2350597e774b" />
+<img width="1920" height="1020" alt="ATS score checker - Brave 15-08-2025 17_07_05" src="https://github.com/user-attachments/assets/2e3ee6d1-c369-4d8c-82b5-e2cee2b168d2" />
+<img width="1920" height="1020" alt="6e6679d7ca42_ Netdata Agent Console - Brave 15-08-2025 17_09_40" src="https://github.com/user-attachments/assets/e93ea624-6d5c-4179-bbcb-743debc0981a" />
+<img width="1920" height="1020" alt="6e6679d7ca42_ Netdata Agent Console - Brave 15-08-2025 17_09_48" src="https://github.com/user-attachments/assets/e26c8cf1-2b09-4938-88d5-a4aaaeafa354" />
+<img width="1920" height="1020" alt="6e6679d7ca42_ Netdata Agent Console - Brave 15-08-2025 17_09_53" src="https://github.com/user-attachments/assets/78f8e292-5fdd-4d03-8845-fbef5c31dcb9" />
+
+
